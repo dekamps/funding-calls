@@ -18,3 +18,13 @@ Last update: 26/10/2022
   *Title:* EPSRC mathematical sciences small grants scheme    
   *URL:* https://www.ukri.org/opportunity/epsrc-mathematical-sciences-small-grants-scheme/  
   *Description:* Small grants are a mechanism for supporting mathematical sciences research which does not require funding at the level generally seen within standard research grants. The open call is specifically aimed at providing freedom to grant small amounts between £10-80,000 for initial research and early-stage idea generation.
+
+
+- *Opening date*: 11 October 2022
+  *Closing date*: 8 November 2022  
+  *Title*: Technological innovation for understanding cancers of unmet need
+  *URL*: https://www.ukri.org/opportunity/technological-innovation-for-understanding-cancers-of-unmet-need/
+  *Description*: Apply to attend a sandpit workshop to develop research applications for technological innovations for understanding of cancers of unmet need.
+ We welcome applications from eligible researchers, within a wide range of disciplines including: medical, biological, chemical, **data science**, engineering and physical sciences. At the sandpit workshop attendees will create research project proposals together.
+The full economic cost of projects developed at the sandpit can be up to £500,000. MRC will typically fund 80% of the full economic cost. Projects can last up to 36 months.
+  *Note*: This is a so-called sandpit.
