@@ -26,5 +26,5 @@ Last update: 26/10/2022
   *URL*: https://www.ukri.org/opportunity/technological-innovation-for-understanding-cancers-of-unmet-need/
   *Description*: Apply to attend a sandpit workshop to develop research applications for technological innovations for understanding of cancers of unmet need.
  We welcome applications from eligible researchers, within a wide range of disciplines including: medical, biological, chemical, **data science**, engineering and physical sciences. At the sandpit workshop attendees will create research project proposals together.
-The full economic cost of projects developed at the sandpit can be up to £500,000. MRC will typically fund 80% of the full economic cost. Projects can last up to 36 months.
-  *Note*: This is a so-called sandpit.
+The full economic cost of projects developed at the sandpit can be up to £500,000. MRC will typically fund 80% of the full economic cost. Projects can last up to 36 months.  
+  **Note: This is a so-called sandpit.**
